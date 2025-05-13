@@ -27,14 +27,6 @@ I work on test planning, manual/API testing (Postman), sprint coordination, and 
 <a href="https://prometheus.io/"><img src="https://simpleicons.org/icons/prometheus.svg" alt="Prometheus" width="30" /></a>
 
 
-
-
-
-### 📫 How to reach me?  
-- Connect with me on[LinkedIn](https://www.linkedin.com/in/nilamadhab-das-a2517923b) 👨🏻‍💻  
-- Shoot me an [Email](mailto:nilamadhabdas12@gmail.com) 💌   
-- Follow me on [Instagram](https://www.instagram.com/yaa.itz_nil?igsh=MTl1OHpvdWM4ZTRncg%3D%3D&utm_source=qr) 📸
-
 ---
 
 > "Great products are built with great collaboration, testing, and care." 🚀
