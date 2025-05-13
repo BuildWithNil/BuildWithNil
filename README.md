@@ -24,7 +24,7 @@ I work on test planning, manual/API testing (Postman), sprint coordination, and 
 
 #### 🧠 Databases & Monitoring  
 <a href="https://www.mysql.com/"><img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30" /></a>&nbsp;
-<a href="https://prometheus.io/"><img src="https://simpleicons.org/icons/prometheus.svg" alt="Prometheus" width="30" /></a>&nbsp;
+<a href="https://prometheus.io/"><img src="https://simpleicons.org/icons/prometheus.svg" alt="Prometheus" width="30" /></a>
 
 
 
