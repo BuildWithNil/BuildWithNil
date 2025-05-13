@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there 👋  
+I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a Project & QA Analyst from 🇮🇳 passionate about delivering high-quality web and mobile solutions through Agile practices. 🎯  
 
-<!--
-**BuildWithNil/BuildWithNil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on test planning, manual/API testing (Postman), sprint coordination, and process optimization. 🚀  
 
-Here are some ideas to get you started:
+### 🔧 Tools & Tech  
+### 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Project & QA Tools  
+<a href="https://www.atlassian.com/software/jira"><img src="https://simpleicons.org/icons/jira.svg" alt="JIRA" width="30" /></a>&nbsp;
+<a href="https://clickup.com/"><img src="https://simpleicons.org/icons/clickup.svg" alt="ClickUp" width="30" /></a>&nbsp;
+<a href="https://www.postman.com/"><img src="https://simpleicons.org/icons/postman.svg" alt="Postman" width="30" /></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://simpleicons.org/icons/git.svg" alt="Git" width="30" /></a>
+
+#### 👨‍💻 Programming & Scripting  
+<a href="https://www.java.com/"><img src="https://simpleicons.org/icons/java.svg" alt="Java" width="30" /></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://simpleicons.org/icons/c.svg" alt="C" width="30" /></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30" /></a>
+
+#### ☁️ Cloud & DevOps  
+<a href="https://aws.amazon.com/"><img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="30" /></a>&nbsp;
+<a href="https://github.com/features/actions"><img src="https://simpleicons.org/icons/githubactions.svg" alt="GitHub Actions" width="30" /></a>&nbsp;
+<a href="https://www.jenkins.io/"><img src="https://simpleicons.org/icons/jenkins.svg" alt="CI/CD" width="30" /></a>
+
+#### 🧠 Databases & Monitoring  
+<a href="https://www.mysql.com/"><img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30" /></a>&nbsp;
+<a href="https://prometheus.io/"><img src="https://simpleicons.org/icons/prometheus.svg" alt="Prometheus" width="30" /></a>&nbsp;
+<a href="https://www.influxdata.com/"><img src="https://simpleicons.org/icons/influxdb.svg" alt="InfluxDB" width="30" /></a>
+
+
+
+
+### 📫 How to reach me?  
+- Connect with me on[LinkedIn](https://www.linkedin.com/in/nilamadhab-das-a2517923b) 👨🏻‍💻  
+- Shoot me an [Email](mailto:nilamadhabdas12@gmail.com) 💌   
+- Follow me on [Instagram](https://www.instagram.com/yaa.itz_nil?igsh=MTl1OHpvdWM4ZTRncg%3D%3D&utm_source=qr) 📸
+
+---
+
+> "Great products are built with great collaboration, testing, and care." 🚀
+
+
+
