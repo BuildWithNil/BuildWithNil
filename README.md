@@ -3,8 +3,7 @@ I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a Proj
 
 I work on test planning, manual/API testing (Postman), sprint coordination, and process optimization. 🚀  
 
-### 🔧 Tools & Tech  
-### 🛠️ Tools & Technologies
+### 🔧 Tools & Technologies   
 
 #### 🚀 Project & QA Tools  
 <a href="https://www.atlassian.com/software/jira"><img src="https://simpleicons.org/icons/jira.svg" alt="JIRA" width="60" /></a>&nbsp;
