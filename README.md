@@ -6,7 +6,7 @@ I work on test planning, manual/API testing (Postman), sprint coordination, and 
 ### 🔧 Tools & Tech  
 ### 🛠️ Tools & Technologies
 
-#### 🚀 Project & QA Tools  
+###### 🚀 Project & QA Tools  
 <a href="https://www.atlassian.com/software/jira"><img src="https://simpleicons.org/icons/jira.svg" alt="JIRA" width="60" /></a>&nbsp;
 <a href="https://clickup.com/"><img src="https://simpleicons.org/icons/clickup.svg" alt="ClickUp" width="60" /></a>&nbsp;
 <a href="https://www.postman.com/"><img src="https://simpleicons.org/icons/postman.svg" alt="Postman" width="60" /></a>&nbsp;
