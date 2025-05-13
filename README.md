@@ -40,9 +40,8 @@ I work on test planning, manual/API testing (Postman), sprint coordination, and 
 
 
 
-                    **🚀 Great products are built with great collaboration, testing, and care. 🚀
+                       **🚀 Great products are built with great collaboration, testing, and care. 🚀**
 
 
-**
 
 ******
