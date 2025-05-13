@@ -1,4 +1,5 @@
-**Hi there 👋 ** 
+**Hi there 👋** 
+
 I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a Project & QA Analyst from 🇮🇳 passionate about delivering high-quality web and mobile solutions through Agile practices. 🎯  
 
 I work on test planning, manual/API testing (Postman), sprint coordination, and process optimization. 🚀  
@@ -30,7 +31,7 @@ I work on test planning, manual/API testing (Postman), sprint coordination, and 
 
 
 
-**### 📫 How to reach me?** 
+### ** 📫 How to reach me?** 
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nilamadhab-das-a2517923b) 👨🏻‍💻  
 - Shoot me an [Email](mailto:nilamadhabdas12@gmail.com) 💌   
