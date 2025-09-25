@@ -1,8 +1,8 @@
 **Hi there 👋** 
 
-I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a Project & QA Analyst from 🇮🇳 passionate about delivering high-quality web and mobile solutions through Agile practices. 🎯  
+I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a DevOps & Server Administrator from 🇮🇳 passionate about building scalable, automated, and reliable cloud-native solutions. 🎯
 
-I work on test planning, manual/API testing (Postman), sprint coordination, and process optimization. 🚀  
+I work on automating CI/CD pipelines, managing cloud infrastructure (AWS), deploying containerized applications (Docker & Kubernetes), monitoring systems, and ensuring smooth collaboration between development and operations teams. 🚀  
 
 ### **🔧 Tools & Technologies** 
 
