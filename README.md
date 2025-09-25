@@ -43,7 +43,7 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 
 
 
-  ### 🚀 Great products are built with great collaboration, testing, and care. 🚀
+  ### 🚀 Driving innovation through automation, reliability, and collaboration. 🚀
 
 
 
