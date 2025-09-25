@@ -45,7 +45,7 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 
   ### 🚀 Driving Innovation Through Automation, Reliability, & Collaboration. 🚀
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=111BF7&width=435&lines=Automating+the+Journey+from+Code+to+Cloud+%7C+Building+Resilient%2C+Scalable+Systems+%7C+Learn.+Build.+Iterate.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=111BF7&width=435&lines=Automating+the+Journey+;from+Code+to+Cloud;%7C+Building+Resilient%2C+;Scalable+Systems+%7C+;Learn.+Build.+Iterate.)](https://git.io/typing-svg)
 
 ******
 
