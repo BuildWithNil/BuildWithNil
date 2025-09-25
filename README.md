@@ -5,7 +5,7 @@ I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a DevO
 I specialize in automating CI/CD pipelines, deploying and orchestrating containerized applications with Docker & Kubernetes, managing cloud infrastructure (AWS), Laravel Cloud deployments, and monitoring systems for reliability and performance. I bridge the gap between development and operations to ensure fast, efficient, and stable software delivery. 🚀 
 
 
-### ***⚡Tech Stack*** 
+## **⚡Tech Stack** 
 
 **🚀 Project & QA Tools**
 
