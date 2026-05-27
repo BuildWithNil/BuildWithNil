@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=BuildWithNil&label=DevOps+Profile+Views&color=orange&style=flat-square" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 **Hi there 👋** 
