@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=BuildWithNil&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+</p>
+
 **Hi there 👋** 
 
 I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a DevOps Engineer from 🇮🇳, passionate about designing and managing scalable, automated, and secure cloud-native systems. 🎯
