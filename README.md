@@ -1,5 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuildWithNil&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=BuildWithNil&theme=tokyonight)
 **Hi there 👋** 
 
 I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a DevOps Engineer from 🇮🇳, passionate about designing and managing scalable, automated, and secure cloud-native systems. 🎯
