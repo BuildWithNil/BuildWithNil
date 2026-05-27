@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+![Snake animation](https://github.com/BuildWithNil/BuildWithNil/blob/output/github-contribution-grid-snake.svg)
 
 **Hi there 👋** 
 
