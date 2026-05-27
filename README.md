@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+DevOps+Learner;AWS+Cloud+Enthusiast;Building+Projects+with+Docker;Always+Learning+New+Technologies" />
-</p>
-
 **Hi there 👋** 
 
 I’m [Nilamadhab](https://www.linkedin.com/in/nilamadhab-das-a2517923b), a DevOps Engineer from 🇮🇳, passionate about designing and managing scalable, automated, and secure cloud-native systems. 🎯
