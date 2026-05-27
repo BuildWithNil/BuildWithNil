@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=BuildWithNil&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=BuildWithNil&label=DevOps+Profile+Views&color=orange&style=flat-square" />
 </p>
 
 **Hi there 👋** 
