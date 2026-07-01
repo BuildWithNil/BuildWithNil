@@ -76,7 +76,7 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 
 ## 🏗️ Featured Projects
 
-### 1. [Multi-Environment Infrastructure with Terraform & Ansible]([https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project](https://github.com/BuildWithNil/Multi-Environment-Infrastructure-with-Terraform-Ansible))
+### 1. [Multi-Environment Infrastructure with Terraform & Ansible](https://github.com/BuildWithNil/Multi-Environment-Infrastructure-with-Terraform-Ansible)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)
