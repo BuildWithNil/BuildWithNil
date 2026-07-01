@@ -83,7 +83,7 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org)
 
-**This project demonstrates provisioning and configuration of a complete multi-environment infrastructure**
+**This project demonstrates provisioning and configuration of a complete multi-environment infrastructure.**
 
 **Key highlights:**
 
