@@ -70,30 +70,10 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 - Follow me on [Instagram](https://www.instagram.com/yaa.itz_nil?igsh=MTl1OHpvdWM4ZTRncg%3D%3D&utm_source=qr) 📸
 
 
-
-
-
-
   ### 🚀 Driving Innovation Through Automation, Reliability, & Collaboration. 🚀
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=111BF7&width=620&lines=Automating+The+Journey+From+Code+To+Cloud)](https://git.io/typing-svg) 
- 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitabh-devops&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=amitabh-devops&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
-
----
 ## 🏗️ Featured Projects
 
 ### 1. [Multi-Environment Infrastructure with Terraform & Ansible]([https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project](https://github.com/BuildWithNil/Multi-Environment-Infrastructure-with-Terraform-Ansible))
