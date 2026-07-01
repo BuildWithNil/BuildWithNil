@@ -84,7 +84,9 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org)
 
 **This project demonstrates provisioning and configuration of a complete multi-environment infrastructure**
+
 **Key highlights:**
+
 This project demonstrates:
 - Infrastructure as Code (IaC)
 - Multi-Environment Deployment
