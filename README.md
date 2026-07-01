@@ -78,6 +78,37 @@ I specialize in automating CI/CD pipelines, deploying and orchestrating containe
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=111BF7&width=620&lines=Automating+The+Journey+From+Code+To+Cloud)](https://git.io/typing-svg) 
  
-******
+---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amitabh-DevOps&theme=chartreuse-dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-devops&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitabh-devops&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=amitabh-devops&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+---
+## 🏗️ Featured Projects
+
+### 1. [Multi-Environment Infrastructure with Terraform & Ansible]([https://github.com/Amitabh-DevOps/DevOps-mega-project/tree/project](https://github.com/BuildWithNil/Multi-Environment-Infrastructure-with-Terraform-Ansible))
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://ansible.com)
+[![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org)
+
+**This project demonstrates provisioning and configuration of a complete multi-environment infrastructure**
+**Key highlights:**
+This project demonstrates:
+- Infrastructure as Code (IaC)
+- Multi-Environment Deployment
+- Dynamic Inventory Automation
+- Cloud Infrastructure Provisioning
+- Configuration Management using Ansible
+- Reusable DevOps Architecture  
